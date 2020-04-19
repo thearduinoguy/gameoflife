@@ -1,4 +1,5 @@
-# gameoflife
+# Serial Game Of Life
+
 Conway's Game of Life for the Arduino Serial Monitor
 
 Upload then open the Serial Monitor. 
